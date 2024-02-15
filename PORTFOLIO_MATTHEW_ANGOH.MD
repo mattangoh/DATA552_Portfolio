@@ -2,8 +2,9 @@
 #### Author: Matthew Angoh
 
 
-## 02-13
+## Lecture 1 - 02-13
 
+### Question 1
 ![02_13](images/02_13.png)
 
 Link: https://pudding.cool/2017/03/home-court/
@@ -19,3 +20,31 @@ Link: https://pudding.cool/2017/03/home-court/
 - When you set the maximum time frame for mistakes by Refs, we see that its relatively balanced, with both teams away and at home benefitting from the incorrect calls. 
 - The initial graph demonstrating the home court advantage is interesting, because we see that although there may have been some earlier differences, these values have drastically dropped off as time went on converging toward 2000.
 - The timeframe of the database as well includes only the last 2-minutes of the game for games within 5 points. I think that it would be important to consider what happens beyond this time frame.
+
+## Lecture 2 - 02-15
+
+### Question 1
+
+![02_15_1](images/02_15_1.png)
+
+1) 
+Context (I was on the receiving end of this): I was applying for a job and the company was not being very clear as to whether myself and a group of other candidates had successfuly made it through the hiring process or not. When we had made it to the 'final stage', the HR team said that if we were here, we essentially 'were in', so to speak, but were quite vague with in which compacity. We had been invited to join a Group Session but it was still labeled as the final stage of the hiring process. The main issue I had was that it was just very unclear whether or not we were successful in the hiring process, or if this session was still an element of the hiring process. 
+
+2) 
+I think that the main thing the company could have done was to ensure that in both an oral and written process, to ensure that they are consistent with the process. Rather than framing the meeting as an 'interiew', it would have been more reassuring if they labeled it as an information session, and explicitly stated that we were successful, or vice versa, that we still needed to go through one more process. It just made the overall process a bit more confusing, and of course, depending on what the situation is will impact how we act in these situations.
+
+### Question 2
+
+![02_15_2](images/02_15_2.png)
+
+1) 
+The HR team's needs are to get a general census of the employee satisfaction of the union. We have been employed to find a non-biased way to sample this information and act as a mediator between HR and the union. In effect, it is our duty to ensure that we can appropriately collect the information (be it in technical / non-technical ways), and appropriately communicate our findings to the HR team. Important considerations we need to make:
+- Ensure that we are applying appropriate sampling techniques
+- Ensure that in presentation, depending on the technical proficiency of the HR team, we need to choose the appropriate level of information
+- When communicating with HR, we need to ensure that we are clear on their goals, which in this case would be to ensure that we address worker satisfaction, at least in multiple capacities or measurements.
+
+2) 
+We are effectively trying to communicate the overal census of the union to HR. Our duty is to ensure that we accurately portray how satisfied the union is and in a unbiased manner. Perhaps, it would be informative to capture more details like reasons as to why the satisfaction levels are the way they are in order to steer improvements. Another consideration is to ensure that we get a better understanding of the underlying contexts.
+
+
+Overall, with respect to rhetoric, there are considerations with all ethos, pathos, and logos. Ethos - Acting as a neutral mediator that both communicates with stakeholders, but also collects unbiased and accurate information. Pathos - ensure we consier the HR audience, but also how to communicate with the union workers. Logos - ensure that our information is accurate, and that we are not presenting misinformation or misrepresenting the information in any manner.
