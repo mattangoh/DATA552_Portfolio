@@ -38,13 +38,18 @@ I think that the main thing the company could have done was to ensure that in bo
 ![02_15_2](images/02_15_2.png)
 
 1) 
-The HR team's needs are to get a general census of the employee satisfaction of the union. We have been employed to find a non-biased way to sample this information and act as a mediator between HR and the union. In effect, it is our duty to ensure that we can appropriately collect the information (be it in technical / non-technical ways), and appropriately communicate our findings to the HR team. Important considerations we need to make:
+The HR team's needs are to get a general census of the employee satisfaction to HR. We have been employed to find a non-biased way to sample this information and act as a mediator between HR and the employees. In effect, it is our duty to ensure that we can appropriately collect the information (be it in technical / non-technical ways), and appropriately communicate our findings to the HR team. Important considerations we need to make:
 - Ensure that we are applying appropriate sampling techniques
 - Ensure that in presentation, depending on the technical proficiency of the HR team, we need to choose the appropriate level of information
 - When communicating with HR, we need to ensure that we are clear on their goals, which in this case would be to ensure that we address worker satisfaction, at least in multiple capacities or measurements.
-
+- HR wants to check to see if there are any red flags so we can choose to highlight any concerns
 2) 
-We are effectively trying to communicate the overal census of the union to HR. Our duty is to ensure that we accurately portray how satisfied the union is and in a unbiased manner. Perhaps, it would be informative to capture more details like reasons as to why the satisfaction levels are the way they are in order to steer improvements. Another consideration is to ensure that we get a better understanding of the underlying contexts.
+We are effectively trying to communicate the overal census of the people to the union. Our duty is to ensure that we accurately portray how satisfied the union is and in a unbiased manner. Perhaps, it would be informative to capture more details like reasons as to why the satisfaction levels are the way they are in order to steer improvements. Another consideration is to ensure that we get a better understanding of the underlying contexts.
+- The union is intrested in making sure that workers are satisfied and are generally being treated fairly.
 
 
-Overall, with respect to rhetoric, there are considerations with all ethos, pathos, and logos. Ethos - Acting as a neutral mediator that both communicates with stakeholders, but also collects unbiased and accurate information. Pathos - ensure we consier the HR audience, but also how to communicate with the union workers. Logos - ensure that our information is accurate, and that we are not presenting misinformation or misrepresenting the information in any manner.
+Overall, with respect to rhetoric, there are considerations with all ethos, pathos, and logos. Ethos - Acting as a neutral mediator that both communicates with all stakeholders, but also collects unbiased and accurate information. Pathos - ensure we consier the HR and Union audience, but also how to communicate with the workers. Logos - ensure that our information is accurate, and that we are not presenting misinformation or misrepresenting the information in any manner.
+
+
+3) Part C What are the potential/likely contexts?
+With respect to context, we need dto consider how we want to structure the communication. In theory, we could use the same subject and give them the same cookie cutter email. BUT... if we want to build a relationship with both, then we would want to tailor the response to ensure that it encorporates the context and audience knowledge. Thus, they would be charactersitically different even though we are sharing the exact same results. ie. HR may be interested in red flags, Union may be interested in potential mistreatments. How we frame these, is important in either context.
