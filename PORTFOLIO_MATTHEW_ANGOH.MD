@@ -54,3 +54,47 @@ Overall, with respect to rhetoric, there are considerations with all ethos, path
 3) Part C What are the potential/likely contexts?
 
 With respect to context, we need dto consider how we want to structure the communication. In theory, we could use the same subject and give them the same cookie cutter email. BUT... if we want to build a relationship with both, then we would want to tailor the response to ensure that it encorporates the context and audience knowledge. Thus, they would be charactersitically different even though we are sharing the exact same results. ie. HR may be interested in red flags, Union may be interested in potential mistreatments. How we frame these, is important in either context.
+
+### In class Activity
+
+![02_27_activity](images/02_27_activity.png)
+
+### Question 1
+
+![02_27_1](images/02_27_1.png)
+
+1. Financial costs: Sagatec spent $350,000 to produce a new, user-friendly training guide after the initial instruction manual proved too complicated.
+2. Market Lead: They lost a year's lead in the highly competitive word-processing market due to the initial issues with the manual.
+3. Reputation: Sagatec's reputation for creating high-quality, user-friendly business software was ruined as a result of the overly complex manual and the negative reviews.
+4. Sales: There was a significant drop in sales for the new word processing program after it was deemed "too complicated" and "difficult to learn" by users and business journals.
+
+### Question 2
+
+![02_27_2](images/02_27_2.png)
+
+#### Email 1
+
+Subject: Update on Jim Martinez Meeting and Demo Plans
+
+Dear Sarah,
+
+I've managed to schedule a demonstration of our software with Jim Martinez for mid-May and will require a sample app to proceed. This was confirmed during our initial phone meeting last Monday at 9:00 a.m. We also need to sign an NDA as per Magnabilify's requirements. We'll discuss the details and clarify any outstanding issues in our meeting this coming Tuesday.
+
+Best,
+Frank
+
+#### Email 2
+
+Subject: Internship Inquiry for Glenda Jones
+
+Dear Hal,
+
+I hope this message finds you well. I am reaching out to recommend a mentee of mine, Glenda Jones, for an internship at the Daily Metropolitan. Glenda has shown exceptional aptitude and I believe she would be a valuable asset to your team. She would greatly benefit from your mentorship and experience your team offers.
+
+I understand the challenges the industry is facing and would like to propose this as an unpaid opportunity for her to gain experience. I'll have Glenda contact you directly to discuss any potential openings.
+
+Thank you for considering my request.
+
+Best regards,
+Myra
+
