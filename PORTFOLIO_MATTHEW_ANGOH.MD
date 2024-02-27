@@ -100,3 +100,4 @@ Thank you for considering my request.
 Best regards,
 Myra
 
+#### See also the supplementary activity (unnessecary words document for that completed activity)
