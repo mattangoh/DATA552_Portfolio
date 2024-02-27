@@ -55,6 +55,8 @@ Overall, with respect to rhetoric, there are considerations with all ethos, path
 
 With respect to context, we need dto consider how we want to structure the communication. In theory, we could use the same subject and give them the same cookie cutter email. BUT... if we want to build a relationship with both, then we would want to tailor the response to ensure that it encorporates the context and audience knowledge. Thus, they would be charactersitically different even though we are sharing the exact same results. ie. HR may be interested in red flags, Union may be interested in potential mistreatments. How we frame these, is important in either context.
 
+## Lecture 3 - 02-27
+
 ### In class Activity
 
 ![02_27_activity](images/02_27_activity.png)
