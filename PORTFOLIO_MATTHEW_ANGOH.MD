@@ -101,3 +101,45 @@ Best regards,
 Myra
 
 #### See also the supplementary activity (unnessecary words document for that completed activity)
+
+
+
+##  Lecture 4 - 02-29
+
+### Question 1 - Should I commute to work?
+
+- Decision variable: 
+  - To commute OR not to commute 
+- Ojective:
+  - Complete necessary work tasks
+  - Make money in order to survive
+  - Cost to commute?
+  - Environmental footprint?
+- Context:
+  - How much do I need this job?
+  - Do I have an option to work remote?
+  - Can I complete what I need to but without commuting into work?
+  - Is it worth the time or hassle to commute?
+
+### Question 2
+![02_29_2](images/02_29.png)
+
+1. When should they start applying for data science jobs?
+- The decision maker is a master of data science student who is in their final term of study. 
+- Their main objective is to land a job in a data science relalted field so that they can make money and progress their career.
+- Alternatives?
+  - (dramatic ending!) They do not apply early, and they are unable to find a job... They become homeless... Develop crippling depression... And their life is over... 
+  - Or... Perhaps they do not apply early, but eventually find a job, but not immediately
+  - Or... Perhaps they do not apply early, but get extremely lucky and find a job anyways
+- Context:
+  - It cannot really hurt to apply early, and if anything helps to gain experience to the process. They may not necesserily need only a data science job and could apply for other data related jobs (like ML engineer, cloud engineer, analyst, etc..), doing so will drastically increase the number of available jobs for them to apply for and may lessen the need to apply early.
+  - Perhaps they are well connected in the field, and know recruiters or managers that can expedite the hiring process and essentially help them get a job through a connection. In this case, a gain it may not be necessary to apply early
+  - Perhaps, they do not really want to get a job immediately after graduating and want to take a 1 year break before starting work.. In that case, it isn't necessary again to apply early.
+
+1. Which MDS course, if any, should they prepare for in advance?
+- The decision maker is a master of data science student who is taking data science classes
+- Their main objective is to do well in their courses, and to learn essential skills in data science to help them get a job. Their secondary objective is to determine if they need to prepare in advance in order to do well.
+- The alternatives to not preparing in advance are:
+  - Go unprepared... If it was not really necessary to prepare in advance, then they will probably do fine. But, if it is a really tough class or they lack the pre-requisite knowledge, then they may not do well.
+  - Preparation requires a lot of cognitive attention and can be draining... If they did not prepare, they may feel less drained and can stay more focused
+- Overall context: it may depend on how well versed the student is in the subject matter. For example, if the class is on statistics and the student has a background in math, it may not be necessary to prepare even for a harder class as they have some expertise already in the field.
