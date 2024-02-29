@@ -127,6 +127,12 @@ Myra
 1. When should they start applying for data science jobs?
 - The decision maker is a master of data science student who is in their final term of study. 
 - Their main objective is to land a job in a data science relalted field so that they can make money and progress their career.
+  - cost of applying
+  - Resume prepared?
+  - Happiness?
+  - Success?
+  - Time looking for a job
+  - Minimizing stress
 - Alternatives?
   - (dramatic ending!) They do not apply early, and they are unable to find a job... They become homeless... Develop crippling depression... And their life is over... 
   - Or... Perhaps they do not apply early, but eventually find a job, but not immediately
