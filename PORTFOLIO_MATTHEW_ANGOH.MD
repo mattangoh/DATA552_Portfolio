@@ -149,3 +149,26 @@ Myra
   - Go unprepared... If it was not really necessary to prepare in advance, then they will probably do fine. But, if it is a really tough class or they lack the pre-requisite knowledge, then they may not do well.
   - Preparation requires a lot of cognitive attention and can be draining... If they did not prepare, they may feel less drained and can stay more focused
 - Overall context: it may depend on how well versed the student is in the subject matter. For example, if the class is on statistics and the student has a background in math, it may not be necessary to prepare even for a harder class as they have some expertise already in the field.
+
+
+## Lecture 5 - 03-05
+
+### Warm-up
+
+![03_05_01](images/03_05_01.png)
+
+1. Decision Variables: What values can it give to me?
+2. Alternatives: Other talks, other free time, public oulook?
+3. Objectives: Gain recognition?
+4. Context: Perhaps its an important talk in the community... Educational? Academic? Work? That limits whether it is mandatory or not...
+
+
+### Portfolio activity
+
+#### My predictions:
+1. I am 15% sure that thhe world's tallest building is between 200m and 800m tall.
+2. I am 20% sure that in 2017, the highest-grossing movie earned between $500 million and $1 billion worldwide while in theatres
+3. I am 90% sure that there are between 200 and 300 bones in an average adult human body
+4. I am 70% that the planet Mars is more massive than the planet Mercury
+5. I am 15% sure that meta employs 200,000 people
+6. I am 50% sure that the forecasted high for this coming saturday in kelowna is between 4 and 6 degrees celcius
