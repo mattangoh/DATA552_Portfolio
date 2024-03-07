@@ -172,3 +172,23 @@ Myra
 4. I am 70% that the planet Mars is more massive than the planet Mercury
 5. I am 15% sure that meta employs 200,000 people
 6. I am 50% sure that the forecasted high for this coming saturday in kelowna is between 4 and 6 degrees celcius
+
+## Lecture 6 - 03-07
+
+### Portfolio Activity
+
+![03_07_01](images/03_07_01.png)
+
+#### Step 1
+
+- Trolley is moving toward box A
+- Pulling a lever changes the trolley direction toward box B
+- An unknown number of people are tied up in both boxes
+- We want to determine if box A has more people than box B
+- The resulting test yields a 0.061 p-value
+- There are no significant results to suggest box A has more people than box B
+- Pulling the lever statistically makes no differences in the outcome
+
+#### Step 2
+
+There is a trolley moving toward box A but you can pull a lever to make it move toward box B. You dont know how many people are under box A and box B, and therefore you hire someone to perform a hypothesis test to determine if box A has more people than box B underneath it. The resulting test yields a 0.061 p-value. This suggests there are no significant results to suggest that box A has more people than box B. Therefore, it is unadvised to pull the lever as, statistically, it makes no difference in the outcome of deaths.
