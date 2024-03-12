@@ -192,3 +192,74 @@ Myra
 #### Step 2
 
 There is a trolley moving toward box A but you can pull a lever to make it move toward box B. You dont know how many people are under box A and box B, and therefore you hire someone to perform a hypothesis test to determine if box A has more people than box B underneath it. The resulting test yields a 0.061 p-value. This suggests there are no significant results to suggest that box A has more people than box B. Therefore, it is unadvised to pull the lever as, statistically, it makes no difference in the outcome of deaths.
+
+
+## Lecture 7 - 03-12
+
+### Portfolio Activity
+
+![03_12_01](images/03_12_01.png)
+
+1. Managing Nervousness
+  
+- Practice frequently!
+- Consider doing a mock practice as well
+- Fake it till you make it
+
+2. Designing Effective Slides/visuals
+
+- Brief
+- Not minimize clutter
+- 5-7 Rule (max 5 bullets w/ 7 words per line)
+- Keep it simple
+
+3. Questions from the audience
+
+- Anticipate possible questions
+- Preparation
+- Know what youre talking about
+- Even if you dont know, its okay
+  - "were looking into it"
+
+4. Starting a presentation
+
+- Smile
+- Be calm
+- Eye contact with the audience
+- Loud and clear
+- Introduce yourself
+
+5. Finishing a presentation
+
+- Conclude formally
+- Thank the audience for their time
+- Ask if they have any questions
+
+
+![03_12_02](images/03_12_02.png)
+
+#### Checklist
+
+- Introduction
+  - Who am I?
+  - Topic (my chosen topic)
+  - Context (broader picture)
+    - What time of audience are we speaking to? Technical / non-technical background
+  - Goals of the project + proposed model that we wish to build
+- Middle
+  - Methodology of the modelling project
+  - Preliminary results regarding data exploration
+  - Outline steps which were taking with respect to Data wrangling 
+- Data
+  - State clearly the main findings
+  - What models we made to achieve this
+  - How can we interpret the findings
+    - What is the repercussion / outcome of this finding
+- Conclusion
+  - Tie back in the results to my initial goal
+  - Explain possible drawbacks
+- Question period
+  - Open the floor to questions
+- Ending
+  - Thank audience for time and attention
+  - Applause...!
