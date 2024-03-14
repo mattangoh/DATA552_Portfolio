@@ -263,3 +263,18 @@ There is a trolley moving toward box A but you can pull a lever to make it move 
 - Ending
   - Thank audience for time and attention
   - Applause...!
+
+#### Slide Checklist additional
+
+- Since it is going to be a short presentation, I imagine its going to be less than 10 slides (probably around 8), to allow just around 30 seconds per slide
+- I don't want to have a lot of text on the slides. MY rule is the 5 by 7 rule, which means: 5 bullets max, with 7 words per line
+- In terms of medium, I will likely either use Canva OR powerpoint... Canva has a bit more interesting stylistic features and built in images that can enhance the presentation, whereas ppt is extremely straight forward.
+- Format:
+  - Title slide (Introduce myself, and title of my project)
+  - Brief Background (who am I as the decision maker)
+  - Goals (What are the objectives)
+  - Brief overview of what the data looks like + data cleaning (maybe a table here of the data)
+  - What model I decided to use
+  - Results + main findings
+  - Difficulties in the daily predictions (due to data granularity)
+  - Conclusion + next steps with respect to the data
