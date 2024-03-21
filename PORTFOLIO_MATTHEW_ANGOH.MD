@@ -278,3 +278,19 @@ There is a trolley moving toward box A but you can pull a lever to make it move 
   - Results + main findings
   - Difficulties in the daily predictions (due to data granularity)
   - Conclusion + next steps with respect to the data
+
+## Lecture 8 - 03-21
+
+### Portfolio Activity
+
+![03-21](images/03_21.png)
+
+- As companies can often be faced with hundreds to thousands of applicants, I think that it is very fair to make use of AI to aid in the hiring process.
+- However, there are some important considerations, specifically with respect to ethics
+- Ensure that the AI algorithm is trained with consideration of multiple different people and backgrounds
+- It may have tendancies to discriminate applicants (based on race, background), thus we need to have a fair pooling of applicants when training the AI
+- Ensure that we have some means of detecting and mitigating bias that may occur over time
+- Create an algorithm that has a straight-forward and transparent selection process that can be explained to candidates
+- Informed consent: Ensure that applicants consent that they can be screened by the AI algorithm
+- Avoid black-box systems that make decisions un-audited.
+- Diversity and Inclusion: Use AI as a tool to advance diversity and inclusion within the workplace by identifying and minimizing unconscious biases in the hiring process.
